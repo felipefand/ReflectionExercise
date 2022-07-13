@@ -1,0 +1,15 @@
+E:\Projetos Top Coders\ReflectionExercise\bin\Debug\net6.0\ReflectionExercise.exe
+E:\Projetos Top Coders\ReflectionExercise\bin\Debug\net6.0\ReflectionExercise.deps.json
+E:\Projetos Top Coders\ReflectionExercise\bin\Debug\net6.0\ReflectionExercise.runtimeconfig.json
+E:\Projetos Top Coders\ReflectionExercise\bin\Debug\net6.0\ReflectionExercise.dll
+E:\Projetos Top Coders\ReflectionExercise\bin\Debug\net6.0\ReflectionExercise.pdb
+E:\Projetos Top Coders\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.csproj.AssemblyReference.cache
+E:\Projetos Top Coders\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos Top Coders\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.AssemblyInfoInputs.cache
+E:\Projetos Top Coders\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.AssemblyInfo.cs
+E:\Projetos Top Coders\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.csproj.CoreCompileInputs.cache
+E:\Projetos Top Coders\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.dll
+E:\Projetos Top Coders\ReflectionExercise\obj\Debug\net6.0\refint\ReflectionExercise.dll
+E:\Projetos Top Coders\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.pdb
+E:\Projetos Top Coders\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.genruntimeconfig.cache
+E:\Projetos Top Coders\ReflectionExercise\obj\Debug\net6.0\ref\ReflectionExercise.dll
