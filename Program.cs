@@ -45,6 +45,7 @@ namespace ReflectionExercise
         {
             DisplayPublicProperties();
             CreateInstance("Felipe", "Let's Code", 123456);
+            CreateInstance("Fulano", "Lets's Code", 654321);
         }
     }
 }
