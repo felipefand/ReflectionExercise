@@ -2,4 +2,4 @@
 
 ## Modulo-2-POO-I-Tarefas
 
-Exercise for a OOP course regarding reflection.
+Exercise for an OOP course regarding reflection.
